@@ -13,7 +13,7 @@ string sl(int liczba, int podstawa){
         liczba=liczba/podstawa;
     }
 
-    return 0;
+    return wynik;
 }
 
 int main() {
